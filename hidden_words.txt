@@ -6,3 +6,5 @@ n[i1l!]gg?[e3o]r[s\$5]?
 n[i!1l]gg?[a4]
 \u534D|\u5350
 r[3e]t[4a]rd
+m[1il]n[e3]hut.gg
+(?:[a-z0-9-]{0,61}[a-z0-9])\.(?:[net|com]{1,3})
